@@ -1,3 +1,4 @@
+//WITH HUGE THANKS FROM AJALA ABDULSAMII https://medium.com/@jalasem/ussd-app-development-with-javascript-a59554e16a03
 const app = require('express')()
 const bodyParser = require('body-parser')
 const logger = require('morgan')
